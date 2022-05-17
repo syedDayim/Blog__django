@@ -1,0 +1,1 @@
+web: gunicorn TheSemicolon.wsgi --log-file
